@@ -72,7 +72,7 @@ Sunday       103 commits    ██████░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+⌚︎ Time Zone: Warsaw
 
 💬 Programming Languages: 
 JavaScript               16 hrs 47 mins      ████████████████░░░░░░░░░   63.86% 
