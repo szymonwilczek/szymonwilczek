@@ -11,6 +11,7 @@
 ```javascript
 const wolfie = {
     code: ["Javascript", "TypeScript", "Java", "C++", "HTML"],
+    startCoding: ["About 6 years ago"]
     askMeAbout: ["tech", "data analysis", "web dev", "designing", "books"],
     technologies: {
         backEnd: {
