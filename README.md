@@ -43,7 +43,7 @@ const wolfie = {
  > 
 > 💼 Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 19 Private Repositories  
  > 
@@ -83,17 +83,14 @@ JSON                     1 hr 14 mins        █░░░░░░░░░░�
 Docker                   56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.6%
 
 🔥 Editors: 
-WebStorm                 18 hrs 56 mins      ██████████████████░░░░░░░   72.02% 
-Android Studio           5 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.54% 
-PyCharm                  1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.58% 
-DataGrip                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
+Visual Studio Code       40 hrs 34 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      26 hrs 18 mins      █████████████████████████   100.0%
+Windows                  26 hrs 18 mins      █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in Swift** 
+**I Mostly Code in JavaScript** 
 
 ```text
 Swift                    15 repos            ██████░░░░░░░░░░░░░░░░░░░   27.27% 
@@ -107,12 +104,9 @@ Dart                     4 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
+<figure><embed src="https://wakatime.com/share/@ewolfie/afbd9752-e22f-4c13-81eb-7b60d6cd8f9f.svg"></embed></figure>
 
-
- Last Updated on 25/10/2021
+ Last Updated on 29/11/2021
 <!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
