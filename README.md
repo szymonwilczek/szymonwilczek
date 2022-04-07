@@ -1,5 +1,4 @@
 <h2>👋 Hello World! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Security Tech and Data Analyser at <a href="https://www.t-mobile.pl/">T-Mobile</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <a href="https://discord.com/users/190755326637768704" target="_blank">
