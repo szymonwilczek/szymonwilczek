@@ -13,3 +13,6 @@ Proficient in `C++` && `JavaScript`.
 Loves `C` a lot && even more `Go`.
 
 Sometimes coding in `Java` && `React-Native` || `Flutter` for apps.
+
+
+If you are looking for help you will find it on my [Discord](https://discord.gg/4TWmMfMU6N), right next to the cafe and bar.
