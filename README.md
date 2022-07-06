@@ -10,7 +10,7 @@ I write code sometimes && sometimes it works.
 
 Proficient in `C++` && `JavaScript`.
 
-Loves `C` a lot && even more `Go`.
+Loves `Go` a lot. Currently working on some stuff with `Python`.
 
 Sometimes coding in `Java` && `React-Native` || `Flutter` for apps.
 
