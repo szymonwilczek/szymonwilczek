@@ -11,11 +11,8 @@
 
 I write code sometimes && sometimes it works.
 
-Proficient in `C++` && `JavaScript`.
+My main specialization is `JavaScript`.
 
-Loves `Go` a lot. Currently working on some stuff with `Python`.
-
-Sometimes coding in `Java` && `React-Native` || `Flutter` for apps.
-
+Avaible for code reviews.
 
 If you are looking for help you will find it on my [Discord](https://discord.gg/4TWmMfMU6N), right next to the cafe and bar.
