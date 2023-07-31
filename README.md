@@ -17,4 +17,3 @@ Avaible for code reviews.
 
 If you are looking for help you will find it on my [Discord](https://discord.gg/4TWmMfMU6N), right next to the cafe and bar.
 
-Both pictures (Discord & profile picture on GitHub) were created by [DALL-E](https://openai.com/dall-e-2/)
