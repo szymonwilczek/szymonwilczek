@@ -1,7 +1,5 @@
 <h2>👋 Hi! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 <p><em>Cybersecurity technician and React Developer.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <a href="https://discord.com/users/190755326637768704" target="_blank">
