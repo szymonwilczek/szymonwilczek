@@ -2,8 +2,10 @@
 
 <p><em>Cybersecurity technician and React Developer.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-| [![Discord Status](https://lanyard.cnrad.dev/api/190755326637768704?bg=1f1f1f&borderRadius=5px)](https://discord.com/users/190755326637768704) | [![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ewolfie&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Last%20activity)](https://wakatime.com/@ewolfie) |
-|:---:|:---:|
+
+[![Discord Status](https://lanyard.cnrad.dev/api/190755326637768704?bg=1f1f1f&borderRadius=5px)](https://discord.com/users/190755326637768704)
+
+[![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ewolfie&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Last%20activity)](https://wakatime.com/@ewolfie)
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=szymonwilczek&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
