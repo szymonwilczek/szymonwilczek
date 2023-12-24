@@ -3,7 +3,7 @@
 <p><em>Cybersecurity technician and React Developer.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center;">
     <a href="https://discord.com/users/190755326637768704">
         <img src="https://lanyard.cnrad.dev/api/190755326637768704?bg=1f1f1f&borderRadius=5px" alt="Discord Status">
     </a>
