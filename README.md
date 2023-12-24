@@ -2,20 +2,8 @@
 
 <p><em>Cybersecurity technician and React Developer.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 48%; float: left;">
-        <a href="https://discord.com/users/190755326637768704" target="_blank">
-            <img width="100%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/190755326637768704?bg=1f1f1f&borderRadius=5px">
-        </a>
-    </div>
-
-    <div style="width: 48%; float: right;">
-        <a href="https://wakatime.com/@ewolfie" target="_blank">
-            <img width="100%" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ewolfie&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Last%20activity">
-        </a>
-    </div>
-
-</div>
+| [![Discord Status](https://lanyard.cnrad.dev/api/190755326637768704?bg=1f1f1f&borderRadius=5px)](https://discord.com/users/190755326637768704) | [![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ewolfie&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Last%20activity)](https://wakatime.com/@ewolfie) |
+|:---:|:---:|
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=szymonwilczek&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
@@ -60,13 +48,11 @@
 <br/>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayantGoel001&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantGoel001&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=szymonwilczek&theme=react-dark&hide_border=true&area=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szymonwilczek&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 </details>
 <br/>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=szymonwilczek&theme=react-dark&hide_border=true&area=true)
 
 #
 
