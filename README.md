@@ -45,6 +45,9 @@ Machines:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+
+*Two things are infinite: the universe and the amount of JavaScript frameworks* ~ Einstein
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/szymonwilczek/szymonwilczek/output/snake.svg" alt="Snake animation" />
