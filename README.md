@@ -1,6 +1,6 @@
-<h2>👋 Hi! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-<p><em>Cybersecurity technician and React Developer.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Cybersecurity technician and Java Developer.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <a href="https://discord.com/users/190755326637768704" target="_blank">
 	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/190755326637768704?bg=1f1f1f&borderRadius=5px">
@@ -10,16 +10,14 @@
 	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ewolfie&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Last%20activity">
 </a>
 
-I write code sometimes && sometimes it works (mostly in JavaScript/TypeScript)
+I write code sometimes && sometimes it works (mostly in Java/JavaScript)
 
 Things I often get to work with:
 
 ### Languages:
-
-![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=007acc)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=C%2B%2B&logoColor=5E97D0)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ### Frameworks and libraries:
