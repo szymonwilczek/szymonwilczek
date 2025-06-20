@@ -32,12 +32,6 @@ Things I often get to work with:
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Programs:
-
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
 *Two things are infinite: the universe and the amount of JavaScript frameworks* ~ Einstein probably
 
 <br clear="both">
