@@ -15,22 +15,21 @@ I write code sometimes && sometimes it works;
 Things I often get to work with:
 
 ### Languages:
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=C%2B%2B&logoColor=5E97D0)
+![Rust](https://img.shields.io/badge/Rust-323330?style=for-the-badge&logo=rust&logoColor=#E57324)
 ![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 
 ### Frameworks and libraries:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-20232A?style=for-the-badge&logo=qt&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-20232A?style=for-the-badge&logo=three.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-20232A?style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 *Two things are infinite: the universe and the amount of JavaScript frameworks* ~ Einstein probably
 
