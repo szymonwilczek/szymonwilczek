@@ -23,7 +23,7 @@ Things I often get to work with:
 
 ### Frameworks and libraries:
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-20232A?style=for-the-badge&logo=qt&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-20232A?style=for-the-badge&logo=three.js&logoColor=white)
