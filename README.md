@@ -19,6 +19,7 @@ Things I often get to work with:
 ![Rust](https://img.shields.io/badge/Rust-323330?style=for-the-badge&logo=rust&logoColor=#E57324)
 ![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=#E57324)
 
 
 ### Frameworks and libraries:
