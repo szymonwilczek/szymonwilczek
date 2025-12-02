@@ -15,6 +15,7 @@ I write code sometimes && sometimes it works;
 Things I often get to work with:
 
 ### Languages:
+![C](https://img.shields.io/badge/C-323330?style=for-the-badge&logo=C)
 ![C++](https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=C%2B%2B&logoColor=5E97D0)
 ![Rust](https://img.shields.io/badge/Rust-323330?style=for-the-badge&logo=rust&logoColor=#E57324)
 ![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript)
