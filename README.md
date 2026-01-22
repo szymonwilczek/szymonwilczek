@@ -17,9 +17,9 @@ Things I often get to work with:
 ### Languages:
 ![C](https://img.shields.io/badge/C-323330?style=for-the-badge&logo=C)
 ![C++](https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=C%2B%2B&logoColor=5E97D0)
+![Rust](https://img.shields.io/badge/Rust-323330?style=for-the-badge&logo=rust&logoColor=#B7410E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Rust](https://img.shields.io/badge/Rust-323330?style=for-the-badge&logo=rust&logoColor=#B7410E)
 ![PHP](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=#E57324)
 
 
