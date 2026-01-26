@@ -23,7 +23,7 @@ I love and embrace the holy *Open Source*. I believe in building tools that I ac
 - [Instant Book Exchange](https://github.com/szymonwilczek/instant-book-exchange) - Platform for trading books with a ranking system and real-time chat.
 
 <details>
-  <summary>More Web Projects</summary>
+  <summary>Honorable Mentions</summary>
 
 - [Portfolio](https://szymon-wilczek.me) - My slice of the internet, reimagined as a 3D voxel world with a wolf.
 - [Skrecior](https://skrecior-bot.vercel.app) - My personal DJ for Discord servers that plays music from any source.
