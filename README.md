@@ -1,40 +1,34 @@
-<h2><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+## Hello ❄
 
-<p><em>One of a creative man and coffee lover.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-<a href="https://discord.com/users/190755326637768704" target="_blank">
-	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/190755326637768704?bg=1f1f1f&borderRadius=5px">
-</a>
+I'm a Linux Contributor and a software engineer. I enjoy working on low-level systems and writing extensions to improve my daily Linux workflow.
 
-<a href="https://wakatime.com/@ewolfie" target="_blank">
-	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats-ivory-delta.vercel.app/api/wakatime?username=ewolfie&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&custom_title=Last%20activity&layout=compact&langs_count=6">
-</a>
+I love and embrace the holy *Open Source*. I believe in building tools that I actually want to use myself.
 
-I write code sometimes && sometimes it works;
+### Some of my projects
 
-Things I often get to work with:
+#### Systems, C++ & Embedded
+- [Talos 7](https://github.com/szymonwilczek/talos-7) - Programmable macro keyboard I built using RP2040 and an OLED screen.
+- [Asmodeus](https://github.com/szymonwilczek/asmodeus) - Custom 16-bit virtual machine with its own Polish assembly language.
+- [Asmodeus LSP](https://github.com/szymonwilczek/asmodeus-lsp) - Language Server Protocol implementation for the Asmodeus language.
+- [Wavelength](https://github.com/szymonwilczek/wavelength) - Cross-platform messaging app focused on privacy. Built with C++ (Qt) and WebSockets.
 
-### Languages:
-![C](https://img.shields.io/badge/C-323330?style=for-the-badge&logo=C)
-![C++](https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=C%2B%2B&logoColor=5E97D0)
-![Rust](https://img.shields.io/badge/Rust-323330?style=for-the-badge&logo=rust&logoColor=#B7410E)
-![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=#E57324)
+#### GNOME & Linux Desktop
+- [Carmenta](https://github.com/szymonwilczek/carmenta) - Minimal Emoji Picker written in Rust & GTK4.
+- [Hati](https://github.com/szymonwilczek/hati) - Wayland cursor highlighter. I built this mainly for presentations and screen recording.
+- [SLAB](https://github.com/szymonwilczek/slab) - My take on tiling window management inside GNOME.
 
+#### Web & Education
+- [Maturator](https://github.com/wolfie-university/maturator) - Infinite math problem generator for the Polish Matura exam.
+- [Matura Engine](https://github.com/wolfie-university/matura-engine) - The REST API behind Maturator. Generates LaTeX equations and SVG graphs on the fly.
+- [Instant Book Exchange](https://github.com/szymonwilczek/instant-book-exchange) - Platform for trading books with a ranking system and real-time chat.
 
-### Frameworks and libraries:
+<details>
+  <summary>More Web Projects</summary>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-20232A?style=for-the-badge&logo=qt&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router&logoColor=white)
-![Threejs](https://img.shields.io/badge/threejs-20232A?style=for-the-badge&logo=three.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-20232A?style=for-the-badge)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- [Portfolio](https://szymon-wilczek.me) - My slice of the internet, reimagined as a 3D voxel world with a wolf.
+- [Skrecior](https://skrecior-bot.vercel.app) - My personal DJ for Discord servers that plays music from any source.
+</details>
 
-*Two things are infinite: the universe and the amount of JavaScript frameworks* ~ Einstein probably
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/szymonwilczek/szymonwilczek/output/snake.svg" alt="Snake animation" />
+#### Dev Tools & Utilities
+- [vim-be-better](https://github.com/szymonwilczek/vim-be-better) - Neovim plugin that gamifies learning motion keys (fork of vim-be-good).
+- [BearTheme](https://github.com/szymonwilczek/BearTheme) - Solarized-based theme for Visual Studio 2022, ported from VS Code.
