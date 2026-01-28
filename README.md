@@ -16,6 +16,7 @@ I love and embrace the holy *Open Source*. I believe in building tools that I ac
 - [Carmenta](https://github.com/szymonwilczek/carmenta) - Minimal Emoji Picker written in Rust & GTK4.
 - [Hati](https://github.com/szymonwilczek/hati) - Wayland cursor highlighter. I built this mainly for presentations and screen recording.
 - [SLAB](https://github.com/szymonwilczek/slab) - My take on tiling window management inside GNOME.
+- [Meson](https://github.com/szymonwilczek/meson) - Minimalist window centering utility for GNOME Shell.
 
 #### Web & Education
 - [Maturator](https://github.com/wolfie-university/maturator) - Infinite math problem generator for the Polish Matura exam.
