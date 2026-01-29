@@ -4,10 +4,11 @@ I'm a [Linux Contributor](https://lore.kernel.org/all/?q=swilczek.lx@gmail.com) 
 
 I love and embrace the holy *Open Source*. I believe in building tools that I actually want to use myself.
 
-### Some of my projects
+### Some of my works
 
 #### Systems, C++ & Embedded
 - [Talos 7](https://github.com/szymonwilczek/talos-7) - Programmable macro keyboard I built using RP2040 and an OLED screen.
+- [My Linux contributions](https://github.com/szymonwilczek/linux) - Staging ground for my Linux commits and patches.
 - [Asmodeus](https://github.com/szymonwilczek/asmodeus) - Custom 16-bit virtual machine with its own Polish assembly language.
 - [Asmodeus LSP](https://github.com/szymonwilczek/asmodeus-lsp) - Language Server Protocol implementation for the Asmodeus language.
 - [Wavelength](https://github.com/szymonwilczek/wavelength) - Cross-platform messaging app focused on privacy. Built with C++ (Qt) and WebSockets.
