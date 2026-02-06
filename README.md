@@ -2,7 +2,7 @@
 
 I'm a [Linux Contributor](https://lore.kernel.org/all/?q=swilczek.lx@gmail.com) and a software engineer. I enjoy working on low-level systems and writing extensions to improve my daily Linux workflow.
 
-I love and embrace the holy *Open Source*. I believe in building tools that I actually want to use myself.
+I create some *Open Source*. I believe in building tools that I actually want to use myself.
 
 ### Some of my works
 
