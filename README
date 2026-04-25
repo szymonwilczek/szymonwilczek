@@ -1,0 +1,89 @@
+SZYMON WILCZEK
+==============
+I write low-level software. Currently a CS student, focusing on the Linux kernel,
+embedded hardware, and developer tooling.
+
+
+CORE CONTRIBUTIONS
+==================
+* Linux Kernel
+  Fixing memory safety (UAF, OOB) and concurrency (deadlocks) bugs across 
+  filesystems, networking, and USB subsystems.
+  - Patches: https://lore.kernel.org/all/?q=swilczek.lx@gmail.com
+  - Diary:   https://github.com/szymonwilczek/linux
+
+
+SYSTEMS & EMBEDDED
+==================
+* Talos 7
+  Programmable macro keyboard I built using RP2040 and an OLED screen.
+  https://github.com/szymonwilczek/talos-7
+
+* Asmodeus
+  Custom 16-bit virtual machine with its own Polish assembly language.
+  https://github.com/szymonwilczek/asmodeus
+
+* Asmodeus LSP
+  Language Server Protocol implementation for the Asmodeus language.
+  https://github.com/szymonwilczek/asmodeus-lsp
+
+* Wavelength
+  Cross-platform messaging app focused on privacy. (C++, Qt, WebSockets).
+  https://github.com/szymonwilczek/wavelength
+
+* polsl-iwsk
+  Cross-platform hardware abstraction layer and Modbus ASCII engine in pure C.
+  https://github.com/szymonwilczek/polsl-iwsk
+
+
+LINUX DESKTOP
+==================
+* Carmenta
+  Minimal Emoji Picker written in Rust & GTK4.
+  https://github.com/szymonwilczek/carmenta
+
+* Hati
+  Wayland cursor highlighter for presentations and screen recording.
+  https://github.com/szymonwilczek/hati
+
+* SLAB
+  My take on tiling windows inside GNOME.
+  https://github.com/szymonwilczek/slab
+
+* Meson
+  Minimalist window centering utility for GNOME.
+  https://github.com/szymonwilczek/slab
+
+
+DEV TOOLS & UTILITIES
+=====================
+* vim-be-better
+  Neovim plugin that gamifies learning motion keys. Fork of vim-be-good.
+  https://github.com/szymonwilczek/vim-be-better
+
+* BearTheme
+  Solarized-based theme for VS 2022, ported from VS Code.
+  https://github.com/szymonwilczek/BearTheme
+
+
+WEB & EDUCATION
+===============
+* Maturator & Matura Engine
+  Infinite math problem generator for the Polish Matura exam.
+  https://github.com/wolfie-university/maturator
+
+* Instant Book Exchange
+  Platform for trading books with a ranking system.
+  https://github.com/szymonwilczek/instant-book-exchange
+
+
+HONORABLE MENTIONS
+==================
+* Portfolio
+  My slice of the Internet, reimagined as a 3D voxel world with a wolf.
+  https://szymon-wilczek.me
+
+* Skrecior
+  Personal DJ for Discord servers serving as a free friend for above 1.1+M users
+  Maintained and operational for almost 5 years.
+  https://skrecior-bot.vercel.app
