@@ -31,10 +31,6 @@ SYSTEMS & EMBEDDED
   Cross-platform messaging app focused on privacy. (C++, Qt, WebSockets).
   https://github.com/szymonwilczek/wavelength
 
-* Palaemon
-  Cross-platform hardware abstraction layer and Modbus ASCII engine in pure C.
-  https://github.com/szymonwilczek/palaemon
-
 
 LINUX DESKTOP
 ==================
@@ -79,6 +75,10 @@ WEB & EDUCATION
 
 HONORABLE MENTIONS
 ==================
+* Palaemon
+  Cross-platform hardware abstraction layer and Modbus ASCII engine in pure C.
+  https://github.com/szymonwilczek/palaemon
+
 * Portfolio
   My slice of the Internet, reimagined as a 3D voxel world with a wolf.
   https://szymon-wilczek.me
