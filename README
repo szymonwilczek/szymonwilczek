@@ -31,9 +31,9 @@ SYSTEMS & EMBEDDED
   Cross-platform messaging app focused on privacy. (C++, Qt, WebSockets).
   https://github.com/szymonwilczek/wavelength
 
-* polsl-iwsk
+* Palaemon
   Cross-platform hardware abstraction layer and Modbus ASCII engine in pure C.
-  https://github.com/szymonwilczek/polsl-iwsk
+  https://github.com/szymonwilczek/palaemon
 
 
 LINUX DESKTOP
