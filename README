@@ -19,6 +19,10 @@ SYSTEMS & EMBEDDED
   Programmable macro keyboard I built using RP2040 and an OLED screen.
   https://github.com/szymonwilczek/talos-7
 
+* Sia
+  Symbolic Algebra System (CAS) written in pure C.
+  https://github.com/szymonwilczek/sia
+
 * Asmodeus
   Custom 16-bit virtual machine with its own Polish assembly language.
   https://github.com/szymonwilczek/asmodeus
