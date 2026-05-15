@@ -61,6 +61,10 @@ DEV TOOLS & UTILITIES
   Neovim plugin that gamifies learning motion keys. Fork of vim-be-good.
   https://github.com/szymonwilczek/vim-be-better
 
+* tmux-jot
+  Tmux popup note manager serving as sticky notes. 
+  https://github.com/szymonwilczek/tmux-jot
+
 * BearTheme
   Solarized-based theme for VS 2022, ported from VS Code.
   https://github.com/szymonwilczek/BearTheme
