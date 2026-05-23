@@ -61,6 +61,10 @@ DEV TOOLS & UTILITIES
   Neovim plugin that gamifies learning motion keys. Fork of vim-be-good.
   https://github.com/szymonwilczek/vim-be-better
 
+* arete.nvim
+  Neovim plugin that ports Protesilaos GNU Emacs themes.
+  https://github.com/szymonwilczek/arete.nvim
+
 * tmux-jot
   Tmux popup note manager serving as sticky notes. 
   https://github.com/szymonwilczek/tmux-jot
