@@ -15,6 +15,10 @@ CORE CONTRIBUTIONS
 
 SYSTEMS & EMBEDDED
 =====================
+* LOTA
+  Transparent system integrity framework for Linux.
+  https://github.com/szymonwilczek/lota
+
 * Talos 7
   Programmable macro keyboard I built using RP2040 and an OLED screen.
   https://github.com/szymonwilczek/talos-7
@@ -90,6 +94,10 @@ HONORABLE MENTIONS
 * Palaemon
   Cross-platform hardware abstraction layer and Modbus ASCII engine in pure C.
   https://github.com/szymonwilczek/palaemon
+
+* Typus Fonts
+  My custom-compiled fonts that please my eyes.
+  https://github.com/szymonwilczek/typus-fonts
 
 * Portfolio
   My slice of the Internet, reimagined as a 3D voxel world with a wolf.
