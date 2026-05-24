@@ -1,11 +1,11 @@
 SZYMON WILCZEK
-==============
+=====================
 I write low-level software. Currently a CS student, focusing on the Linux kernel,
 embedded hardware, and developer tooling.
 
 
 CORE CONTRIBUTIONS
-==================
+=====================
 * Linux Kernel
   Fixing memory safety (UAF, OOB) and concurrency (deadlocks) bugs across 
   filesystems, networking, and USB subsystems.
@@ -14,7 +14,7 @@ CORE CONTRIBUTIONS
 
 
 SYSTEMS & EMBEDDED
-==================
+=====================
 * Talos 7
   Programmable macro keyboard I built using RP2040 and an OLED screen.
   https://github.com/szymonwilczek/talos-7
@@ -37,7 +37,7 @@ SYSTEMS & EMBEDDED
 
 
 LINUX DESKTOP
-==================
+=====================
 * Carmenta
   Minimal Emoji Picker written in Rust & GTK4.
   https://github.com/szymonwilczek/carmenta
@@ -75,7 +75,7 @@ DEV TOOLS & UTILITIES
 
 
 WEB & EDUCATION
-===============
+=====================
 * Maturator & Matura Engine
   Infinite math problem generator for the Polish Matura exam.
   https://github.com/wolfie-university/maturator
@@ -86,7 +86,7 @@ WEB & EDUCATION
 
 
 HONORABLE MENTIONS
-==================
+=====================
 * Palaemon
   Cross-platform hardware abstraction layer and Modbus ASCII engine in pure C.
   https://github.com/szymonwilczek/palaemon
