@@ -9,12 +9,12 @@ CORE CONTRIBUTIONS
 * Linux Kernel
   Fixing memory safety (UAF, OOB) and concurrency (deadlocks) bugs across 
   filesystems, networking, and USB subsystems.
-  - Patches: https://lore.kernel.org/all/?q=swilczek.lx@gmail.com
-  - Diary:   https://github.com/szymonwilczek/linux
+  - Patches:  https://lore.kernel.org/all/?q=swilczek.lx@gmail.com
+  - Diary:    https://github.com/szymonwilczek/linux
 
 * Neovim
   Improving my favorite text editor.
-  - Commits: https://github.com/neovim/neovim/commits?author=szymonwilczek
+  - Commits:  https://github.com/neovim/neovim/commits?author=szymonwilczek
   - Activity: https://github.com/neovim/neovim/issues?q=involves:szymonwilczek
 
 
