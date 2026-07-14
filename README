@@ -38,10 +38,6 @@ SYSTEMS & EMBEDDED
   3D physical oil paint simulator running entirely on the client. (C99, Wasm).
   https://github.com/szymonwilczek/prometheus-canvas
 
-* Asmodeus LSP
-  Language Server Protocol implementation for the Asmodeus language.
-  https://github.com/szymonwilczek/asmodeus-lsp
-
 * Wavelength
   Cross-platform messaging app focused on privacy. (C++, Qt, WebSockets).
   https://github.com/szymonwilczek/wavelength
