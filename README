@@ -26,6 +26,10 @@ SYSTEMS & EMBEDDED
   Transparent system integrity framework for Linux.
   https://github.com/szymonwilczek/lota
 
+* alloyctl
+  Control utility & interactive TUI for SteelSeries mice on Linux.
+  https://github.com/szymonwilczek/alloyctl
+
 * Talos 7
   Programmable macro keyboard I built using RP2040 and an OLED screen.
   https://github.com/szymonwilczek/talos-7
