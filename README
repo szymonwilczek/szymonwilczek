@@ -72,9 +72,13 @@ DEV TOOLS
   Tmux popup note manager serving as sticky notes. 
   https://github.com/szymonwilczek/tmux-jot
 
-* BearTheme
-  Solarized-based theme for VS 2022, ported from VS Code.
-  https://github.com/szymonwilczek/BearTheme
+* jot.el
+  Emacs floating child-frame note manager serving as sticky notes.
+  https://github.com/szymonwilczek/jot.el
+
+* bufferline.el
+  Buffer line for GNU Emacs built on tab-line-mode.
+  https://github.com/szymonwilczek/bufferline.el
 
 
 WEB & EDUCATION
