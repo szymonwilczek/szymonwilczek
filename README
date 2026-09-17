@@ -36,10 +36,6 @@ SYSTEMS & EMBEDDED
   Custom 16-bit virtual machine with its own Polish assembly language.
   https://github.com/szymonwilczek/asmodeus
 
-* Wavelength
-  Cross-platform messaging app focused on privacy. (C++, Qt, WebSockets).
-  https://github.com/szymonwilczek/wavelength
-
 
 LINUX DESKTOP
 -------------
@@ -60,10 +56,6 @@ DEV TOOLS
   Neovim plugin that gamifies learning motion keys. Fork of vim-be-good.
   https://github.com/szymonwilczek/vim-be-better
 
-* arete.nvim
-  Neovim plugin that ports Protesilaos GNU Emacs themes.
-  https://github.com/szymonwilczek/arete.nvim
-
 * tmux-jot
   Tmux popup note manager serving as sticky notes. 
   https://github.com/szymonwilczek/tmux-jot
@@ -77,32 +69,8 @@ DEV TOOLS
   https://github.com/szymonwilczek/bufferline.el
 
 
-WEB & EDUCATION
----------------
-
-* Maturator & Matura Engine
-  Infinite math problem generator for the Polish Matura exam.
-  https://github.com/wolfie-university/maturator
-
-* Instant Book Exchange
-  Platform for trading books with a ranking system.
-  https://github.com/szymonwilczek/instant-book-exchange
-
-
 HONORABLE MENTIONS
 ~~~~~~~~~~~~~~~~~~
-
-* Prometheus
-  3D physical oil paint simulator running entirely on the client. (C99, Wasm).
-  https://github.com/szymonwilczek/prometheus-canvas
-
-* Palaemon
-  Cross-platform hardware abstraction layer and Modbus ASCII engine in pure C.
-  https://github.com/szymonwilczek/palaemon
-
-* Typus Fonts
-  My custom-compiled fonts that please my eyes.
-  https://github.com/szymonwilczek/typus-fonts
 
 * Portfolio
   My slice of the Internet, reimagined as a 3D voxel world with a wolf.
