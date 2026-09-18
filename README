@@ -52,21 +52,15 @@ LINUX DESKTOP
 DEV TOOLS
 ---------
 
-* vim-be-better
-  Neovim plugin that gamifies learning motion keys. Fork of vim-be-good.
-  https://github.com/szymonwilczek/vim-be-better
+* For Emacs
+  https://github.com/szymonwilczek?tab=repositories&q=emacs
+
+* For Neovim
+  https://github.com/szymonwilczek?tab=repositories&q=nvim
 
 * tmux-jot
   Tmux popup note manager serving as sticky notes. 
   https://github.com/szymonwilczek/tmux-jot
-
-* jot.el
-  Emacs floating child-frame note manager serving as sticky notes.
-  https://github.com/szymonwilczek/jot.el
-
-* bufferline.el
-  Buffer line for GNU Emacs built on tab-line-mode.
-  https://github.com/szymonwilczek/bufferline.el
 
 
 HONORABLE MENTIONS
