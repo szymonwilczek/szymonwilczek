@@ -23,10 +23,6 @@ SYSTEMS & EMBEDDED
   Control utility & interactive TUI for SteelSeries mice on Linux.
   https://github.com/szymonwilczek/alloyctl
 
-* Asmodeus
-  Custom 16-bit virtual machine with its own Polish assembly language.
-  https://github.com/szymonwilczek/asmodeus
-
 
 LINUX DESKTOP
 -------------
@@ -48,6 +44,10 @@ DEV TOOLS
 
 * For Neovim
   https://github.com/szymonwilczek?tab=repositories&q=nvim
+
+* au-themes
+  Calm, low-glare themes for anyone who finds most themes too loud.
+  https://github.com/szymonwilczek/au-themes
 
 * tmux-jot
   Tmux popup note manager serving as sticky notes. 
