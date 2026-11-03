@@ -13,7 +13,7 @@ PROJECTS
   * LOTA        System integrity framework for Linux
                 https://github.com/szymonwilczek/lota
 
-  * Talos 7     Programmable macro keyboard (RP2040 + OLED)
+  * Talos 7     Programmable macro keyboard
                 https://github.com/szymonwilczek/talos-7
 
   * alloyctl    Control utility for peripheral devices on Linux
