@@ -1,49 +1,29 @@
-CORE CONTRIBUTIONS
-==================
+CONTRIBUTIONS
+=============
 
-* Linux kernel
-  https://lore.kernel.org/all/?q=swilczek.lx@gmail.com
-
-* Neovim
-  https://github.com/neovim/neovim/issues?q=involves:szymonwilczek
-
-All my upstream work and contributions can be found here:
-https://szymon-wilczek.me/research/
+  kernel    https://lore.kernel.org/all/?q=swilczek.lx@gmail.com
+  git       https://github.com/git/git/commits?author=szymonwilczek
+  neovim    https://github.com/neovim/neovim/issues?q=involves:szymonwilczek
+  more      https://szymon-wilczek.me/research/
 
 
-SYSTEMS & EMBEDDED
-------------------
+PROJECTS
+========
 
-* LOTA
-  Transparent system integrity framework for Linux.
-  https://github.com/szymonwilczek/lota
+  * LOTA        System integrity framework for Linux
+                https://github.com/szymonwilczek/lota
 
-* Talos 7
-  Programmable macro keyboard I built using RP2040 and an OLED screen.
-  https://github.com/szymonwilczek/talos-7
+  * Talos 7     Programmable macro keyboard (RP2040 + OLED)
+                https://github.com/szymonwilczek/talos-7
 
-* alloyctl
-  Control utility & interactive TUI for SteelSeries mice on Linux.
-  https://github.com/szymonwilczek/alloyctl
+  * alloyctl    Control utility for peripheral devices on Linux
+                https://github.com/szymonwilczek/alloyctl
 
+  * Carmenta    Wayland emoji picker
+                https://github.com/szymonwilczek/carmenta
 
-LINUX DESKTOP
--------------
+  * Hati        Wayland cursor highlighter
+                https://github.com/szymonwilczek/hati
 
-* Carmenta
-  Minimal Emoji Picker written in Rust & GTK4.
-  https://github.com/szymonwilczek/carmenta
-
-* Hati
-  Wayland cursor highlighter for presentations and screen recording.
-  https://github.com/szymonwilczek/hati
-
-
-DEV TOOLS
----------
-
-* For Emacs
-  https://github.com/szymonwilczek?tab=repositories&q=emacs
-
-* For Neovim
-  https://github.com/szymonwilczek?tab=repositories&q=nvim
+  * For Emacs   https://github.com/szymonwilczek?tab=repositories&q=emacs
+  * For Neovim  https://github.com/szymonwilczek?tab=repositories&q=nvim
